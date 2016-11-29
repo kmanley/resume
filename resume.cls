@@ -786,8 +786,8 @@
 \def\@listI{\leftmargin\leftmargini
 \topsep 0pt 
 \parskip 0pt
-\partopsep 10pt plus 2pt
-\parsep 2pt plus 2pt
+\partopsep 5pt plus 0pt
+\parsep 0pt plus 0pt
 \itemsep \parsep}
 
 \pagestyle{empty}  % don't want page numbers
